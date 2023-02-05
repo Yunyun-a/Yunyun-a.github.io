@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunyun Wu / Site Title"
+title                    : "Yunyun Wu"
 title_separator          : "-"
 name                     : &name "Yunyun Wu"
 description              : &description "personal description"
