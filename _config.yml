@@ -85,10 +85,10 @@ author:
   bio              : "Postdocral scholar at Northwestern University"
   location         : "Chicago, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3anVhr8AAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yunyun-Wu-4"
+  researchgate     : "https://www.researchgate.net/profile/Yunyun-Wu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yunyun-a"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
