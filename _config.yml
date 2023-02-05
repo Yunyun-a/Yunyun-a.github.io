@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunyun Wu"
 title_separator          : "-"
 name                     : &name "Yunyun Wu"
-description              : &description "Hi, my name is Yunyun"
+description              : &description "personal description"
 url                      : https://Yunyun-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yunyun-a/Yunyun-a.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yunyun Wu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdocral scholar at Northwestern University"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3anVhr8AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yunyun-Wu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Yunyun-a"
   google_plus      :
   keybase          :
   instagram        :
